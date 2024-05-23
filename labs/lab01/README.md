@@ -3,8 +3,10 @@
 1. Собрать схему CLOS
 2. Распределить адресное пространство
 
-Схема
+### Схема
 
-![image](https://github.com/ghlitoxa/OTUS-COD-Citadel-2024-05/assets/170517262/d5e998c8-a9a1-4bab-90c8-97a34f195159)
-## Ответ на п.1
+![image](https://github.com/ghlitoxa/OTUS-COD-Citadel-2024-05/assets/170517262/7b1917cd-17aa-468e-bdb8-bffb2af50bc1)
+
+## Решение
+### Ответ на п.1
 Собрал
