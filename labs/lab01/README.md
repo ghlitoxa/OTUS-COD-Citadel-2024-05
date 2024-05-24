@@ -8,6 +8,7 @@
 > 
 > ![image](https://github.com/ghlitoxa/OTUS-COD-Citadel-2024-05/assets/170517262/7b1917cd-17aa-468e-bdb8-bffb2af50bc1)
 
-## Решение
-### Ответ на п.1
-Собрал
+==============================================================
+### Решение по п.1
+
+![Аннотация 2024-05-24 065642](https://github.com/ghlitoxa/OTUS-COD-Citadel-2024-05/assets/170517262/b40d6327-12d3-441e-85aa-fef21b8c4e88)
