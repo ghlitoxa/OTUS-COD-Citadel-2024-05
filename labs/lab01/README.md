@@ -9,6 +9,16 @@
 > ![image](https://github.com/ghlitoxa/OTUS-COD-Citadel-2024-05/assets/170517262/7b1917cd-17aa-468e-bdb8-bffb2af50bc1)
 
 ==============================================================
-### Решение по п.1
+### Ответ на 1
 
 ![Аннотация 2024-05-24 065642](https://github.com/ghlitoxa/OTUS-COD-Citadel-2024-05/assets/170517262/b40d6327-12d3-441e-85aa-fef21b8c4e88)
+
+### Ответ на 2
+
+Name |	Lo1
+=====|=====
+Spine1 |10.0.1.1/16
+Spine2	10.0.2.1/16
+Leaf1	10.0.0.1/32
+Leaf2	10.0.0.2/32
+Leaf3	10.0.0.3/32
