@@ -15,10 +15,22 @@
 
 ### Ответ на 2
 
-Name|Lo1|
----|----|
-Spine1 |10.0.1.1/16
-Spine2	|10.0.2.1/16
-Leaf1	|10.0.0.1/32
-Leaf2	|10.0.0.2/32
-Leaf3	|10.0.0.3/32
+Name|Lo1
+---|---
+Spine1 | 10.0.1.1/16
+Spine2 | 10.0.2.1/16
+
+Name|Lo2
+---|---
+Leaf1	| 10.0.0.1/32
+Leaf2	| 10.0.0.2/32
+Leaf3	| 10.0.0.3/32
+
+Name|p2p service
+---|---
+p2p Spine → Leaf1	| 10.1.1.1/31
+p2p Spine → Leaf1	| 10.1.2.1/31
+p2p Spine → Leaf2	| 10.1.1.2/31
+p2p Spine → Leaf2	| 10.1.2.2/31
+p2p Spine → Leaf3	| 10.1.1.3/31
+p2p Spine → Leaf3	| 10.1.2.3/31
